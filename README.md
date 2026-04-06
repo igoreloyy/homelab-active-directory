@@ -91,10 +91,6 @@ Os usuários foram organizados em grupos dentro do Active Directory, permitindo:
 
 ## 📸 Evidências do Projeto
 
-> *(Adicionar imagens na pasta /images e referenciar aqui)*
-
-### Exemplos sugeridos:
-
 * Usuários e grupos no Active Directory
 * GPOs configuradas
 * Wallpaper aplicado nos clientes
