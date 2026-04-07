@@ -26,15 +26,7 @@ O ambiente foi projetado para simular boas práticas utilizadas em empresas, com
 
 ## 🌐 Topologia da Rede
 
-
-  [Internet]
-      |
-  [pfSense]
-  /       \
-LAN     SERVIDORES
- |          |
-Win11    Servers
-
+<img width="321" height="571" alt="topologia-rede" src="https://github.com/user-attachments/assets/ea0377ec-8e76-4729-bbf7-f2bc9c3460b2" />
 
 ---
 
@@ -67,6 +59,7 @@ Win11    Servers
 * Segmentação de rede entre clientes e servidores
 * Controle de tráfego entre redes
 * Gerenciamento central de conectividade
+* Utilização de serviço DHCP via endereço MAC
 
 ---
 
@@ -124,7 +117,6 @@ Durante este projeto, foram desenvolvidas habilidades em:
 
 ## 🔗 Possíveis Melhorias Futuras
 
-* Implementação de servidor DHCP
 * Backup automatizado
 * Monitoramento de rede
 * Criação de mais OUs (RH, TI, Financeiro)
